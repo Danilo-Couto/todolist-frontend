@@ -4,6 +4,9 @@ Este é meu primeiro projeto full stack como estudante de desenvolvimento web.
 
 Uma lista de tarefas simples editável e ordenável feita em React com integração via API com backend em Node JS.
 
+Front-End em React  
+Back-End em NodeJS com MySQL e Prima (neste repo aqui https://github.com/Danilo-Couto/todolist-backend)
+
 ## Instalação
 
 Use npm install para instalar as dependencias
@@ -24,15 +27,8 @@ npm install
 ##### Cors
 ##### MySQL2
 ##### JOI Validation
-
 #####  EsLint
 ##### StyledComponents
-
-## Requisitos técnicos:
-
-Front-End em React  
-Back-End em NodeJS com MySQL
-
 
 ## Funcionalidades concluídas:
 
@@ -51,14 +47,12 @@ Estilização
 Organizar melhor a arquitetura em camadas
 Usar tipagens e interfaces
 Criar os testes
-Deploy
 
 ### para rodar frontend
 
 ```bash
 npm start
 ```
-
 ### para rodar backend
 
 ```bash
