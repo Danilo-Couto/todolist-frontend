@@ -1,4 +1,4 @@
-## Todo List FullStack - Fron-End
+## Todo List FullStack - Front-End
 *para ver o back-end: https://github.com/Danilo-Couto/todolist-backend
 
 Este é meu primeiro projeto full stack como estudante de desenvolvimento web.
