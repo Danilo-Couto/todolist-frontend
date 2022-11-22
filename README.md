@@ -2,11 +2,13 @@
 *para ver o back-end: https://github.com/Danilo-Couto/todolist-backend
 
 Este é meu primeiro projeto full stack como estudante de desenvolvimento web.
-
 Uma lista de tarefas simples editável e ordenável feita em React com integração via API com backend em Node JS.
 
 Front-End em React  
 Back-End em NodeJS com MySQL e Prima
+
+## Deploy
+https://todolist-frontend-puce.vercel.app/
 
 ## Instalação
 
